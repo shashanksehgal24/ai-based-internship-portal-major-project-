@@ -1,0 +1,52 @@
+Student name,Age,Gender,Location,CGPA,Technical skills,Work experience,Company name,Company location,Skills required by company,Internship status,Rating by company
+Riya Sharma,21,Female,Delhi,8.6,"Python, ML, Data Analysis",3 months,Google,Bangalore,,1,4
+Aarav Mehta,22,Male,Mumbai,7.9,"Java, Spring Boot, SQL",6 months,Infosys,Pune,"Java, Spring Boot",1,3
+Neha Patel,20,Female,Pune,8.2,"HTML, CSS, JS, React",2 months,TCS,Mumbai,"React, JS, Node.js",1,3
+Aditya Singh,21,Male,Bangalore,7.5,"Python, Django, MySQL",4 months,Wipro,Hyderabad,"Python, Django",1,2
+Priya Verma,23,Female,Chennai,9.1,"ML, Deep Learning, Python",6 months,Google,Bangalore,"ML, Deep Learning",1,4
+Rajesh Gupta,22,Male,Hyderabad,7.2,"C++, DSA, Problem Solving",0,Infosys,Pune,"DSA, C++",0,0
+Simran Kaur,20,Female,Delhi,8.9,"React, Node.js, MongoDB",3 months,Microsoft,Hyderabad,"React, Node.js",1,4
+Mohit Rao,21,Male,Pune,7.8,"Data Analysis, SQL, Excel",2 months,Deloitte,Mumbai,"SQL, Excel, Power BI",1,3
+Anjali Desai,22,Female,Mumbai,8.5,"Flutter, Firebase",4 months,Swiggy,Bangalore,"Flutter, Firebase",1,4
+Karan Yadav,21,Male,Bangalore,7.4,"Java, DSA, OOPs",0,Infosys,Pune,"Java, DSA",0,0
+Sneha Iyer,23,Female,Chennai,9,"Python, AI, ML",5 months,Amazon,Hyderabad,"Python, AI, ML",1,4
+Rohit Nair,22,Male,Delhi,8.1,"Cybersecurity, Networking",3 months,Cisco,Bangalore,"Networking, Security",1,3
+Ishita Jain,21,Female,Pune,8.3,"Data Science, Python, ML",4 months,IBM,Bangalore,"Data Science, ML",1,3
+Arjun Reddy,20,Male,Hyderabad,7,"HTML, CSS, JS",1 month,TCS,Mumbai,"HTML, CSS, JS",1,2
+Tanya Kapoor,22,Female,Delhi,8.7,"React, Node.js",2 months,Microsoft,Hyderabad,"React, Node.js",1,4
+Nikhil Sharma,21,Male,Bangalore,7.9,"Android, Kotlin",3 months,Paytm,Noida,"Android, Kotlin",1,3
+Meera Nair,23,Female,Chennai,9.2,"ML, Python, NLP",6 months,Google,Bangalore,"ML, NLP",1,4
+Deepak Mishra,20,Male,Pune,7.1,"C++, DSA",0,Infosys,Pune,"C++, DSA",0,0
+Rachit Tiwari,21,Male,Mumbai,8.4,"SQL, Tableau, Power BI",3 months,Deloitte,Mumbai,"SQL, Tableau",1,3
+Shruti Joshi,22,Female,Bangalore,8.9,"Data Science, ML",5 months,IBM,Bangalore,"Data Science, ML",1,4
+Harshit Jain,21,Male,Delhi,8,"Python, Flask, SQL",3 months,Wipro,Hyderabad,"Python, Flask",1,3
+Kavya Menon,22,Female,Chennai,9.3,"AI, ML, Deep Learning",6 months,Google,Bangalore,"AI, ML, Python",1,4
+Vivek Kumar,23,Male,Hyderabad,7.6,"JavaScript, React, Node.js",4 months,Microsoft,Hyderabad,"React, JS",1,3
+Ananya Das,21,Female,Kolkata,8.5,"Python, Data Analysis",2 months,Deloitte,Mumbai,"SQL, Excel",1,3
+Sarthak Jain,22,Male,Mumbai,7.8,"Flutter, Firebase",3 months,Swiggy,Bangalore,"Flutter, Firebase",1,3
+Jiya Bansal,20,Female,Delhi,8.7,"React, MongoDB",2 months,Microsoft,Hyderabad,"React, Node.js",1,4
+Aman Agarwal,21,Male,Pune,7.3,"Java, Spring Boot",1 month,Infosys,Pune,"Java, Spring Boot",1,2
+Kritika Rao,22,Female,Bangalore,8.8,"ML, Data Science",4 months,IBM,Bangalore,"ML, Python",1,3
+Aayush Singh,21,Male,Chennai,8.1,"Android, Java",3 months,Paytm,Noida,"Android, Kotlin",YES,3
+Pooja Gupta,23,Female,Hyderabad,9,"Python, NLP, ML",6 months,Google,Bangalore,"NLP, ML",YES,4
+Dev Mishra,22,Male,Pune,7.9,"SQL, Excel, Tableau",3 months,Deloitte,Mumbai,"SQL, Excel",YES,3
+Naina Kapoor,20,Female,Mumbai,8.3,"HTML, CSS, React",2 months,TCS,Mumbai,"HTML, CSS, JS",YES,3
+Rajat Chauhan,21,Male,Delhi,7.7,"Python, Django",2 months,Wipro,Hyderabad,"Python, Django",YES,2
+Isha Singh,22,Female,Chennai,9.1,"Deep Learning, ML",5 months,Google,Bangalore,"ML, Deep Learning",YES,4
+Adarsh Verma,23,Male,Bangalore,8.2,"Java, SQL",4 months,Infosys,Pune,"Java, SQL",YES,3
+Kriti Mehta,21,Female,Delhi,8.6,"React, JS",2 months,Microsoft,Hyderabad,"React, JS",YES,4
+Rohan Desai,22,Male,Pune,7.8,"Data Science, ML",3 months,IBM,Bangalore,"ML, Python",YES,3
+Sneha Reddy,21,Female,Hyderabad,8.9,"Flutter, Firebase",4 months,Swiggy,Bangalore,"Flutter, Firebase",YES,4
+Tushar Malhotra,23,Male,Mumbai,8,"Cybersecurity, Networking",3 months,Cisco,Bangalore,"Networking, Security",YES,3
+Aarohi Jain,20,Female,Bangalore,8.4,"Python, Data Analysis",2 months,Deloitte,Mumbai,"SQL, Excel",YES,3
+Parth Goyal,22,Male,Delhi,7.2,"C++, DSA",0,Infosys,Pune,"C++, DSA",NO,0
+Ishaan Batra,23,Male,Chennai,9.2,"ML, AI, Python",6 months,Google,Bangalore,"ML, Python",YES,4
+Neelima Raj,21,Female,Pune,8.1,"SQL, Excel",2 months,Deloitte,Mumbai,"SQL, Excel",YES,3
+Aarav Sharma,22,Male,Hyderabad,8.3,"JavaScript, React",3 months,Microsoft,Hyderabad,"React, JS",YES,3
+Mansi Agarwal,21,Female,Mumbai,8.7,"Flutter, Firebase",3 months,Swiggy,Bangalore,"Flutter, Firebase",YES,4
+Harshita Iyer,23,Female,Chennai,9,"ML, Deep Learning",5 months,Google,Bangalore,"ML, Deep Learning",YES,4
+Varun Joshi,20,Male,Delhi,7.4,"Java, OOPs",0,Infosys,Pune,"Java, DSA",NO,0
+Kanishka Tiwari,21,Female,Pune,8.5,"Data Science, ML",3 months,IBM,Bangalore,"ML, Python",YES,3
+Ritesh Ranjan,22,Male,Bangalore,7.9,"SQL, Tableau",2 months,Deloitte,Mumbai,"SQL, Tableau",YES,3
+Nisha Patel,23,Female,Hyderabad,9.1,"AI, ML, NLP",6 months,Google,Bangalore,"AI, ML",YES,4
+Ayush Kumar,20,Male,Delhi,7.5,"C++, DSA",0,Infosys,Pune,"C++, DSA",NO,0
