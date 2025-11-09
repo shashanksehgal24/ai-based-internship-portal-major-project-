@@ -1,0 +1,6 @@
+/* static/main.css */
+:root { --accent: #4f46e5; --accent2: #06b6d4; }
+body { background: linear-gradient(180deg,#f8fafc 0,#fff 100%); }
+.navbar.bg-gradient { background: linear-gradient(90deg,var(--accent), #7c3aed) !important; }
+.card { border-radius: 12px; }
+.display-6 { font-weight: 700; }
